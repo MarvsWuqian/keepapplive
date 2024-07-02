@@ -8,7 +8,6 @@
 qq:1582499339
 mail:wuqian103264@126.com
 
-
 support Android 9-14 almost brand phone 
 provider sdk or source code
 contact：
